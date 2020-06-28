@@ -1,0 +1,2 @@
+model_checkpoint_path: ".\\weights\\my_keras_model_multi_IO_model.ckpt"
+all_model_checkpoint_paths: ".\\weights\\my_keras_model_multi_IO_model.ckpt"
