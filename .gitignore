@@ -132,3 +132,4 @@ dmypy.json
 my_logs/
 models/
 weights/
+datasets/
