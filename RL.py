@@ -1,8 +1,9 @@
 import gym
-import pyvirtualdisplay
+# import pyvirtualdisplay
 
 env = gym.make("CartPole-v1")
 obs = env.reset()
+# print(obs)
 
 # try:
 #     import pyvirtualdisplay
